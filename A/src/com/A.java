@@ -5,6 +5,7 @@ public class A {
 	public void m1() {
 		
 		System.out.println("This is mi method o f class A");
+		Syste.out.println("This is Pull Method");
 		
 	}
 	public static void main(String[] args) {
