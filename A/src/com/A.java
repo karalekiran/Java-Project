@@ -8,6 +8,12 @@ public class A {
 		System.out.println("This is Pull Method");
 		
 	}
+	public void m3() {
+		
+		System.out.println("This is mi method o f class A");
+		System.out.println("This is Pull Method");
+		
+	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		A a=new A();
